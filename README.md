@@ -16,13 +16,13 @@ Sentiment analysis has numerous applications across different domains:
 - The specific dataset used for this project titled "Amazon Customer Review Dataset"
 ### Text Preprocessing
 Text preprocessing is crucial for effective sentimental analysis.
-* __Lower casing__ : In the first step of NLP project, we converted the comments in Title column to lower case. This standardize the data into uniform format, eliminating inconsistency in case sensitivity during text processing
-* __Punctuation Removal__ :
-* __Numbers Removal__ :
-* __StopWord Removal__ :
-* __Rarewords Remval__ :
-* __Tokenization__ :
-* __Lemmanitation__ :
+* __Lower casing__ : In the first step of NLP project, we converted the comments in Title column to lower case. This standardize the data into uniform format, eliminating inconsistency in case sensitivity during text processing.
+* __Punctuation Removal__ : In this step, we remove the punctuations from the 'Title' column. This process aims to enhance the efficiency of our text processing task by making our text data cleaner and understand to analysis.
+* __Numbers Removal__ : In this step, we remove the numbers from the 'Title' column. By removing numbers, our text processing task make our text data cleaner and more meaningful data analysis.
+* __StopWord Removal__ : In this step, by removing frequently repeated or often meaningless words ('is', 'the','in'), from text, we can focus on meaningful words which will improve our NLP oerformance.
+* __Rarewords Remval__ : In this step, we combine all the comments or review in th 'Title' column, then split the resulting text into words, then count the frequency of the each word. In this process we identified the words that appear only once.subsequently we remvoe the rare words from the column will improve the NLP model focus on more significant words.
+* __Tokenization__ : In this part, we transformed all the comment/review in the 'Title' column into TextBlop object and then tokenize them into words. TextBlops easily split the comment into tokens.This process enable us to examine each words in each comment and conduct more detailed NLP analysis based on the words.
+* __Lemmanitation__ : In this step, we lemmatize each review in the 'Title' column to its root or base word. Lemmatization reduces different forms of words. This provide more cosistent and meaning data processing in NLP analysis.
 ### Text Visualization
 ### Sentiment Analysis
 ### Future Engineering
