@@ -26,6 +26,7 @@ Text preprocessing is crucial for effective sentimental analysis.
 
 These preprocessing steps effectively cleaned the text data, removed irrelevant information, and prepared it for feature extraction and subsequent model training. By carefully cleaning and preparing the text, we aimed to improve the accuracy and robustness of the sentiment analysis model.
 ### Text Visualization
+* __WordCloud__ : In this section, we create and visualize a word cloud using the review from the 'Title' column. The purpose is to display the frequently occurring words in the dataset in a visual forma. This allows for a quick observation of the key trends and prominent features in the text data.
 ### Sentiment Analysis
 ### Future Engineering
 ### Sentiment Modeling
