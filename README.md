@@ -15,14 +15,14 @@ Sentiment analysis has numerous applications across different domains:
 - The dataset used for this project is sourced from __Kaggle__, prominent online platform for data scientists and machine learning practitioners.
 - The specific dataset used for this project titled "Amazon Customer Review Dataset"
 ### Text Preprocessing
-- Text preprocessing is crucial for effective sentimental analysis.
-* __Lower casing__ :
+Text preprocessing is crucial for effective sentimental analysis.
+* __Lower casing__ : In the first step of NLP project, we converted the comments in Title column to lower case. This standardize the data into uniform format, eliminating inconsistency in case sensitivity during text processing
 * __Punctuation Removal__ :
 * __Numbers Removal__ :
 * __StopWord Removal__ :
 * __Rarewords Remval__ :
 * __Tokenization__ :
-* __ Lemmanitation__ :
+* __Lemmanitation__ :
 ### Text Visualization
 ### Sentiment Analysis
 ### Future Engineering
