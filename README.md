@@ -27,6 +27,9 @@ Text preprocessing is crucial for effective sentimental analysis.
 These preprocessing steps effectively cleaned the text data, removed irrelevant information, and prepared it for feature extraction and subsequent model training. By carefully cleaning and preparing the text, we aimed to improve the accuracy and robustness of the sentiment analysis model.
 ### Text Visualization
 * __WordCloud__ : In this section, we create and visualize a word cloud using the review from the 'Title' column. The purpose is to display the frequently occurring words in the dataset in a visual forma. This allows for a quick observation of the key trends and prominent features in the text data.
-### Sentiment Analysis
 ### Future Engineering
+It is the process of extracting features from raw data. In this, we are converting each word into vector because meachine learning models only understand Numbers. In NLP we also call it as Text Representation.
+* __CountVectorization__ : With this technique each review was then represented as a vector where each element corresponds to the frequency of a specific word in that review. Count Vectorization is simple to implement and computationally efficient.
+* __TF-IDF__ : **Term Frequency (TF)**  measures how frequently a word appears within a specific document. **Inverse Document Frequency (IDF)** measures how rare a word is across the entire corpus. Words that appear in many documents are given lower weights. TF-IDF gives more weight to words that are important within a specific document but rare across the entire corpus.
+  
 ### Sentiment Modeling
