@@ -23,6 +23,7 @@ Text preprocessing is crucial for effective sentimental analysis.
 * __Rarewords Remval__ : In this step, we combine all the comments or review in th 'Title' column, then split the resulting text into words, then count the frequency of the each word. In this process we identified the words that appear only once.subsequently we remvoe the rare words from the column will improve the NLP model focus on more significant words.
 * __Tokenization__ : In this part, we transformed all the comment/review in the 'Title' column into TextBlop object and then tokenize them into words. TextBlops easily split the comment into tokens.This process enable us to examine each words in each comment and conduct more detailed NLP analysis based on the words.
 * __Lemmanitation__ : In this step, we lemmatize each review in the 'Title' column to its root or base word. Lemmatization reduces different forms of words. This provide more cosistent and meaning data processing in NLP analysis.
+* These preprocessing steps effectively cleaned the text data, removed irrelevant information, and prepared it for feature extraction and subsequent model training. By carefully cleaning and preparing the text, we aimed to improve the accuracy and robustness of the sentiment analysis model.
 ### Text Visualization
 ### Sentiment Analysis
 ### Future Engineering
