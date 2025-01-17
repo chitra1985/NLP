@@ -12,6 +12,8 @@ Sentiment analysis has numerous applications across different domains:
 * __Market Research__ : Sentiment analysis can provide insights into market trends and consumer preferences by analyzing discussions and reviews.
 * __Political Analysis__ : It can be used to understand public sentiment about political candidates, policies, and events
 ### Data Collection
+- The dataset used for this project is sourced from __Kaggle__, prominent online platform for data scientists and machine learning practitioners.
+- The specific dataset used for this project titled "Amazon Customer Review Dataset"
 ### Text Preprocessing
 ### Text Visualization
 ### Sentiment Analysis
