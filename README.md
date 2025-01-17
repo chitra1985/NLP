@@ -6,8 +6,8 @@ Sentiment analysis, also known as opinion mining, is a natural language processi
 ### Usage and importance
 Sentiment analysis has numerous applications across different domains:
 
-**Business Insights**: Companies can use sentiment analysis to gauge public opinions about their products, services, and brand, helping them make informed decisions.
-__Social Media Monitoring__: Sentiment analysis is widely used to monitor social media platforms to understand public sentiment about various topics in real-time.
+* __Business Insight__: Companies can use sentiment analysis to gauge public opinions about their products, services, and brand, helping them make informed decisions.
+* __Social Media Monitoring__: Sentiment analysis is widely used to monitor social media platforms to understand public sentiment about various topics in real-time.
 Customer Feedback: It aids in analyzing customer feedback and reviews to improve products and services based on user experiences.
 Market Research: Sentiment analysis can provide insights into market trends and consumer preferences by analyzing discussions and reviews.
 Political Analysis: It can be used to understand public sentiment about political candidates, policies, and events
