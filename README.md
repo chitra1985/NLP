@@ -1,3 +1,3 @@
 # NLP
 ## Amazon Review - Sentimental Analysis
-Sentimental Analysis on customer review using NLP (Natural Language Processing)
+Welcome to the sentimental Analysis! This project aims to perform sentimental analysis on customer review of Amazon  using NLP (Natural Language Processing). This README.md will guide you the key concepts of this project.
