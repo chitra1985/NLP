@@ -1,6 +1,7 @@
 # NLP
 ## Amazon Review - Sentimental Analysis
 Welcome to the sentimental Analysis! This project aims to perform sentimental analysis on customer review of Amazon  using NLP (Natural Language Processing). This README.md will guide you the key concepts of this project.
+
 ### Introduction to Sentimental Analysis
 Sentiment analysis, also known as opinion mining, is a natural language processing (NLP) technique used to determine the emotional tone behind a piece of text. The primary goal of sentiment analysis is to identify whether a given text expresses positive, negative, or neutral sentiment. It involves analyzing various textual features to classify the sentiment conveyed by the text.
 ### Usage and importance
