@@ -33,5 +33,12 @@ It is the process of extracting features from raw data. In this, we are converti
 * __TF-IDF__ : **Term Frequency (TF)**  measures how frequently a word appears within a specific document. **Inverse Document Frequency (IDF)** measures how rare a word is across the entire corpus. Words that appear in many documents are given lower weights. TF-IDF gives more weight to words that are important within a specific document but rare across the entire corpus.
 
 By carefully selecting and applying appropriate text representation techniques, we can effectively transform the raw text data into meaningful numerical features that can be used to train accurate sentiment analysis models.
-  
-
+### Model Bulding  
+* __Data Split__ Tarining data size is 80% and Testing data size is 20%
+* __RandomForestClassifier__  is a versatile and powerful algorithm with numerous applications in various domains. Its ability to handle high-dimensional data, reduce overfitting, and provide accurate predictions makes it a popular choice for many machine learning tasks.
+### Evaluation metrics
+Accuracy : 83.30 %
+Precision : 83.30 %
+Recall : 83.30 %
+F1 Score : 82.78 %
+AUC Score : 91.61 %
